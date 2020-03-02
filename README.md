@@ -1,4 +1,4 @@
-# 06-Juicy-Breakout
+# 06-Juicy-Breakout Allie Brock MSCH-C220 Spring 2020
 
 This is an opportunity for you to implement some of the "juicy" features as demonstrated in the 2012 GDC presentation, "Juice it or Lose it."
 
