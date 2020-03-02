@@ -39,3 +39,19 @@ The grading criteria will be as follows:
  - [1] No (script) syntax errors
  - [1] No other runtime errors
  - [16] Features to make the game more "juicy"
+
+ADDED FEATURES:
+ - Changing the color of the paddle & ball
+ - Animate how the blocks and the paddle appear on the screen
+ - Paddle gets thin and thick depending on how close to the center you are
+ - Ball wobbles!
+ - Ball chameleons
+ - Added background
+ - Changed color of blocks! (3 times)
+ - Each different color of block has a different point value (does this count as 3? i don't know. this took FOREVER to get right because I realized the only surefire way to check the Color would be to use either entirely blue, entirely red, or entirely green... aka, this game is kind of ugly but i'm still proud of it)
+ - Blocks fall when they're hit
+ - Blocks spin around as they fall when they're hit, like a Star Wars ship
+ - Blocks fade in color as they fall
+ - Ball has a comet tail
+ - Blocks shake when ball hits paddle
+ - Screen shakes when ball hits things (shakes a lot, be wary of motion sickness)
